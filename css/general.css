@@ -1,0 +1,163 @@
+.bodyBackground{
+  background:#CDBDAE;
+}
+.body{
+  font-family: 'Arvo', serif;
+}
+
+/* footer css */
+.tempfooter{
+  background-color:#CDBDAE;
+  color:#E4540A;
+}
+
+/*various index css*/
+.separator{
+  padding:25px;
+}
+
+.panel{
+  font-family: 'Arvo', serif;
+  background-color:#FAFAFA !important;
+}
+
+.titleBox{
+  background-color:#FAFAFA !important;
+  font-size:30px;
+  text-align:center;
+  background-color:#FAFAFA;
+  border-style: solid;
+  border-width: 2px;
+  border-color:#CDBDAE;
+}
+
+.TopProject{
+  background-color:#FAFAFA;
+  border-style: solid;
+  border-width: 2px;
+  border-color:#CDBDAE;
+}
+
+.TopProject:hover{
+  background-color:#E4540A;
+}
+
+.TopProject{
+  font-family: 'Arvo', serif;
+  padding-top:10px;
+  text-align:left;
+  padding-left:10px;
+  color:black;
+}
+
+
+
+/* PROJECT LISTING CSS */
+
+.projectListing{
+  width:480px;
+  padding-bottom:20px;
+  overflow:hidden;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.projectImg{
+  float:left;
+  width:200px;
+  height:200px;
+}
+.projectImg:hover{
+  cursor:hand;
+}
+.projectImg > a > img:hover{
+  -webkit-transition: all 0.2s linear;
+     -moz-transition: all 0.2s linear;
+      -ms-transition: all 0.2s linear;
+       -o-transition: all 0.2s linear;
+          transition: all 0.2s linear;
+  opacity: 0.7;
+  cursor:hand;
+  cursor:pointer;
+}
+
+.projectTextBox{
+  float:left;
+  width:270px;
+  text-align:left;
+}
+
+.projectTextBoxTitle{
+  background: #E4540A;
+  color: white;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+.projectTextBoxTitle:hover{
+  -webkit-transition: all 0.2s linear;
+     -moz-transition: all 0.2s linear;
+      -ms-transition: all 0.2s linear;
+       -o-transition: all 0.2s linear;
+          transition: all 0.2s linear;
+  background:#E27C48;
+  cursor:hand;
+  cursor:pointer;
+}
+
+.projectTextBoxLanguage{
+  background:black;
+  color:white;
+  font-size:1rem;
+  font-style:italic;
+  padding:10px;
+}
+
+.projectTextBoxDescription{
+  background:white;
+  color:black;
+  font-size:1.2rem;
+  padding:10px;
+}
+
+.projectDateCreated{
+  background: none;
+  border-bottom: 1px solid white;
+  margin-bottom: 15px;
+  cursor: default;
+  padding-bottom: 0px;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.linkSidebar{
+  background: none;
+  color: white;
+  font-size: 1.5rem;
+  text-align: center;
+  position: fixed;
+  right: 50px;
+  top: 150px;
+}
+.sidebarBubble{
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  padding:10px;
+}
+.sidebarBubble:hover{
+  -webkit-transition: all 0.2s linear;
+   -moz-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+     -o-transition: all 0.2s linear;
+        transition: all 0.2s linear;
+  background: #E4540A;
+  cursor: hand;
+  cursor: pointer;
+}
+.sidebarConnector{
+  border: 1px solid white;
+  height: 20px;
+  background-color: white;
+  width: 1px;
+  margin-left: 50%;
+  margin-right: 50%;
+}

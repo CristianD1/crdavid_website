@@ -1,0 +1,63 @@
+.frontBookCover{
+  background-color:#FFFFFF;
+  background-image:url("../pages/bookFrontCover.jpg");
+}
+
+.backBookCover{
+  background-color:#FFFFFF;
+  background-image:url("../pages/bookBackCover.jpg");
+}
+
+.rightPage{
+  background-color:#FFFFFF;
+  background-image:url("../pages/pageRight.jpg");
+}
+
+.leftPage{
+  background-color:#FFFFFF;
+  background-image:url("../pages/pageLeft.jpg");
+}
+
+.clickableIndex{
+  background:none;
+  margin:0;
+  padding:0;
+  border-style:solid;
+  border-width:2px;
+  border-color:#669999;
+  font-family: 'Indie+Flower', serif;
+  color:black;
+}
+.clickableIndex:hover{
+  border-color:#1919D1;
+}
+
+.clickablePosition{
+  position:absolute;
+  bottom:0;
+  right:0;
+  padding-right:10px;
+  padding-left:20px;
+}
+
+.p3Index{
+  padding-top:20px;
+  padding-bottom:20px;
+  font-family: 'Indie+Flower', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.readingTitle{
+  padding-top:20px;
+  padding-bottom:20px;
+  font-family: 'Indie+Flower', serif;
+  font-size: 30px;
+}
+
+.writing{
+  padding: 40px;
+  align:center;
+  font-family: 'Slabo', serif;
+  font-size: 15px;
+}

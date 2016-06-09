@@ -1,0 +1,31 @@
+.theBoard{
+	border: 5px solid black;
+}
+
+.selectionBox{
+	padding: 5px;
+}
+
+#simulationOptions{
+	background: #CDBDAE;
+	border: 1px solid black;
+	z-index: 100;
+}
+
+.closeMenu{
+	cursor: pointer;
+	cursor: hand;
+	float: right;
+	padding: 5px;
+}
+
+.tab-bar {
+ 	transform: rotate(90deg);
+	transform-origin: left top 0;
+	margin-left:45px;
+	max-width:25%;
+}
+.tab-bar:hover{
+	cursor:pointer;
+	cursor:hand;
+}

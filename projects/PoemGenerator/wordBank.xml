@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<theme>
+
+	<wordBank category="sea">
+
+		<wordList wordType="concreteNouns">street, sidewalk, corner, door, window, hood, slum, skyscraper, car, truck, guy, girl, job, flower, light, cigarette, rain, jackhammer, driver, worker</wordList>
+
+		<wordList wordType="abstractNouns">action, work, noise, desolation, death, life, love, faith, anger, exhaustion</wordList>
+
+		<wordList wordType="transitiveVerbs">get, grab, shove, love, desire, buy, sell, fight, hustle, drive</wordList>
+
+		<wordList wordType="intransitiveVerbs">talk, gab, walk, run, stop, eat, grow, shrink, shop, work</wordList>
+
+		<wordList wordType="adjectives">big, small, old, fast, cold, hot, dark, dusty, grimy, dry, rainy, misty, noisy, faceless, dead</wordList>
+
+		<wordList wordType="adverbs">quickly, loudly, calmly, quietly, roughly</wordList>
+
+		<wordList wordType="interjections">o, oh, ooh, ah, lord, god, damn</wordList>
+
+	</wordBank>
+
+	<wordBank category="elizabethan">
+
+		<wordList wordType="concreteNouns"></wordList>
+
+		<wordList wordType="abstractNouns"></wordList>
+
+		<wordList wordType="transitiveVerbs"></wordList>
+
+		<wordList wordType="intransitiveVerbs"></wordList>
+
+		<wordList wordType="adjectives"></wordList>
+
+		<wordList wordType="adverbs"></wordList>
+
+		<wordList wordType="interjections"></wordList>
+
+	</wordBank>
+
+</theme>

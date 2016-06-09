@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Image Warzone",
+  "description": "The battle of the images.",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["basic.css"],
+      "js": ["jquery.min.js", "contentscript.js"]
+      
+    }
+  ]
+}
